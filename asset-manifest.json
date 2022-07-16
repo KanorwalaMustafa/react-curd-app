@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-curd-app/static/css/main.7a633221.css",
-    "main.js": "/react-curd-app/static/js/main.20ac5e14.js",
+    "main.js": "/react-curd-app/static/js/main.061a4fcf.js",
     "index.html": "/react-curd-app/index.html",
     "main.7a633221.css.map": "/react-curd-app/static/css/main.7a633221.css.map",
-    "main.20ac5e14.js.map": "/react-curd-app/static/js/main.20ac5e14.js.map"
+    "main.061a4fcf.js.map": "/react-curd-app/static/js/main.061a4fcf.js.map"
   },
   "entrypoints": [
     "static/css/main.7a633221.css",
-    "static/js/main.20ac5e14.js"
+    "static/js/main.061a4fcf.js"
   ]
 }
